@@ -1,46 +1,55 @@
-# 👋 Hi, I'm Md Fakhre Azam Khan
+# Md Fakhre Azam Khan — Portfolio
 
-### Fresher Full Stack Developer | B.Tech CSE
+A personal portfolio website showcasing my background, technical skills, and web development projects.
 
-I'm passionate about building responsive and user-friendly web applications. I enjoy learning new technologies and improving my development skills.
+🌐 **Live website:** [azam-portfolio-nu.vercel.app](https://azam-portfolio-nu.vercel.app/)  
+💻 **GitHub:** [@azamkhan870](https://github.com/azamkhan870)
 
-## 🚀 Live Portfolio
+## About
 
-[Visit My Portfolio](https://azam-portfolio-nu.vercel.app/)
+I'm a B.Tech Computer Science and Engineering student at Roorkee Institute of Technology. I enjoy building responsive web interfaces and improving my software development skills.
 
-## 🛠️ Technologies Used
+## Built With
 
 - HTML5
 - CSS3
 - JavaScript
-- Responsive Web Design
 
-## ✨ Features
+## Features
 
-- Modern and clean UI
-- Responsive design
-- Interactive elements
-- Smooth user experience
+- Responsive portfolio layout
+- About, skills, projects, and contact sections
+- Interactive navigation and page animations
+- Project highlights and contact links
 
-## 📂 Project Structure
+## Project Structure
 
-- `index.html` – Website structure
-- `style.css` – Styling and layout
-- `script.js` – Interactive functionality
-- `profile.jpg` – Profile image
+```text
+azam-portfolio/
+├── index.html    # Page structure and content
+├── style.css     # Layout, styling, and responsive design
+├── script.js     # Interactive behavior
+└── profile.jpg   # Profile image
+```
 
-## 🎯 About Me
+## Run Locally
 
-- B.Tech Computer Science Engineering student
-- Learning Full Stack Development
-- Currently exploring the MERN Stack
-- Open to Full-Time Job Opportunities
+1. Clone the repository:
 
-## 🔗 Connect With Me
+   ```bash
+   git clone https://github.com/azamkhan870/azam-portfolio.git
+   ```
 
-- GitHub: https://github.com/azamkhan870
-- Portfolio: https://azam-portfolio-nu.vercel.app/
+2. Open the project folder.
+3. Open `index.html` in your browser.
+
+No build step or package installation is required.
+
+## Contact
+
+- **GitHub:** [github.com/azamkhan870](https://github.com/azamkhan870)
+- **Portfolio:** [azam-portfolio-nu.vercel.app](https://azam-portfolio-nu.vercel.app/)
 
 ---
 
-⭐ Thanks for visiting my repository!
+If you find this project useful, feel free to explore the repository.
